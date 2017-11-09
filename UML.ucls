@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.11" icons="true" automaticImage="JPEG" always-add-relationships="false" 
+  generalizations="true" realizations="true" associations="true" dependencies="false" nesting-relationships="true" 
+  router="FAN">  
+  <class id="1" language="java" name="View.StartMenu" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/StartMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="190" x="855" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="Control.ADStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/ADStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="206" x="1352" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="LoaderPackage.Plate" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/LoaderPackage/Plate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="549" width="180" x="952" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="View.Frame" project="CircusOfPlates" file="/CircusOfPlates/src/View/Frame.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="179" x="830" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="5" language="java" name="Control.Iterator" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/Iterator.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="174" y="-142"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="Control.KeyboardAnimation.AnimationAction" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/KeyboardAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1429" y="1149"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Control.DynamicLoading" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/DynamicLoading.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="149" x="1654" y="3319"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Control.KeyboardAnimation" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/KeyboardAnimation.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="243" width="201" x="1422" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="View.GamePanel.shapesAscendingIterator" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/GamePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="315" y="105"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="MovingShapes.IMoveShape" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/MovingShapes/IMoveShape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="81" width="103" x="-53" y="2928"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="11" language="java" name="ShapesFactory.NewShapeFactory" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/ShapesFactory/NewShapeFactory.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="171" x="1654" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="View.PauseMenu" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/PauseMenu.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="190" x="830" y="-186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Control.ArrowsStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/ArrowsStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="206" x="1598" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Shapes.IShape" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Shapes/IShape.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="351" width="180" x="912" y="2928"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="15" language="java" name="View.Validate" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/Validate.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="202" x="-53" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Control.ClassLoader" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/ClassLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="154" x="1654" y="2928"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="MovingShapes.HardMoveStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/MovingShapes/HardMoveStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="202" x="-53" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="MovingShapes.EasyMoveStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/MovingShapes/EasyMoveStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="172" x="430" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="Control.Save" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/Save.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="876" y="-225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="Shapes.Rectangle" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Shapes/Rectangle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="513" width="180" x="1172" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="View.PausePanel" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/PausePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="178" x="500" y="-343"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="ShapesFactory.ReusablePool" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/ShapesFactory/ReusablePool.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="225" width="158" x="1614" y="2064"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="MovingShapes.MediumMoveStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/MovingShapes/MediumMoveStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="201" x="189" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="View.GamePanel" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/GamePanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="657" width="211" x="460" y="-186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="View.StartMenuButtonHandler" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/StartMenuButtonHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="200" x="1049" y="511"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="Control.Load" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/Load.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="189" width="150" x="1106" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="27" language="java" name="Control.IMovePlayer" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/IMovePlayer.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="206" x="1368" y="2064"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="28" language="java" name="View.AppStarter" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/AppStarter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="168" x="1060" y="-186"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="View.MenuButtonHandler" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/View/MenuButtonHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="194" x="1291" y="-343"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="Player.Player" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Player/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="244" x="1083" y="1149"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="Control.MouseStrategy" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Control/MouseStrategy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="171" width="206" x="500" y="740"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="Shapes.Circle" project="CircusOfPlates" 
+    file="/CircusOfPlates/src/Shapes/Circle.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="180" x="1392" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <realization id="33">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="34">    
+    <bendpoint x="736" y="511"/>    
+    <bendpoint x="736" y="740"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="35" name="Player"/>      
+      <multiplicity id="36" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="37">    
+    <bendpoint x="1602" y="2339"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="38" name="freeShapes"/>      
+      <multiplicity id="39" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="40">    
+    <bendpoint x="427" y="511"/>    
+    <bendpoint x="427" y="740"/>    
+    <bendpoint x="427" y="1149"/>    
+    <bendpoint x="530" y="2064"/>    
+    <bendpoint x="632" y="2339"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="41" name="currentShapes"/>      
+      <multiplicity id="42" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="43">    
+    <bendpoint x="1328" y="740"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="44" name="Player"/>      
+      <multiplicity id="45" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="46">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="47" name="reusablePool"/>      
+      <multiplicity id="48" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="49">    
+    <bendpoint x="778" y="511"/>    
+    <bendpoint x="778" y="740"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="50" name="Player2"/>      
+      <multiplicity id="51" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="52">    
+    <bendpoint x="1300" y="-186"/>    
+    <bendpoint x="1300" y="511"/>    
+    <bendpoint x="1286" y="740"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="53" name="player2"/>      
+      <multiplicity id="54" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="55">    
+    <end type="SOURCE" refId="23" navigable="false">      
+      <attribute id="56" name="currentShape"/>      
+      <multiplicity id="57" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="58">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="59" name="caller"/>      
+      <multiplicity id="60" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="61">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="62" name="caller"/>      
+      <multiplicity id="63" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="64">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="65" name="Player1"/>      
+      <multiplicity id="66" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="68" name="Player"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="70">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="71">    
+    <bendpoint x="900" y="2064"/>    
+    <bendpoint x="900" y="2339"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="72" name="RStack"/>      
+      <multiplicity id="73" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="74">    
+    <bendpoint x="799" y="511"/>    
+    <bendpoint x="799" y="740"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="75" name="player2"/>      
+      <multiplicity id="76" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="77">    
+    <bendpoint x="757" y="511"/>    
+    <bendpoint x="757" y="740"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="78" name="Player1"/>      
+      <multiplicity id="79" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="80">    
+    <bendpoint x="1370" y="740"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="81" name="Player1"/>      
+      <multiplicity id="82" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="83">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="84" name="startMenu"/>      
+      <multiplicity id="85" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="87" name="uniqueInstance"/>      
+      <multiplicity id="88" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="89">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="90">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="91" name="Player1"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="448" y="511"/>    
+    <bendpoint x="448" y="740"/>    
+    <bendpoint x="448" y="1149"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="94" name="strategy1"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="97" name="handler"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <bendpoint x="-84" y="511"/>    
+    <bendpoint x="-84" y="740"/>    
+    <bendpoint x="-84" y="1149"/>    
+    <bendpoint x="-84" y="2064"/>    
+    <bendpoint x="-84" y="2339"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="100" name="moveObject"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <bendpoint x="1398" y="1149"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="103" name="strategy1"/>      
+      <multiplicity id="104" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <bendpoint x="921" y="2064"/>    
+    <bendpoint x="921" y="2339"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="106" name="LStack"/>      
+      <multiplicity id="107" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <bendpoint x="1834" y="-186"/>    
+    <bendpoint x="1834" y="511"/>    
+    <bendpoint x="1834" y="740"/>    
+    <bendpoint x="1834" y="1149"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="109" name="reusablePool"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="112" name="caller"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="1075" y="740"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="115" name="player1"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="118" name="caller"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="120">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="121">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="122" name="Player2"/>      
+      <multiplicity id="123" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="124">    
+    <end type="SOURCE" refId="28" navigable="false">      
+      <attribute id="125" name="startFrame"/>      
+      <multiplicity id="126" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="127">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="9"/>  
+  </nesting>  
+  <association id="128">    
+    <bendpoint x="1391" y="740"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="129" name="Player"/>      
+      <multiplicity id="130" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="131">    
+    <bendpoint x="1321" y="-186"/>    
+    <bendpoint x="1321" y="511"/>    
+    <bendpoint x="1307" y="740"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="132" name="player1"/>      
+      <multiplicity id="133" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="134">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="24"/>  
+  </generalization>  
+  <association id="135">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="136" name="animation"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="138">    
+    <bendpoint x="1674" y="740"/>    
+    <bendpoint x="1674" y="1149"/>    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <association id="139">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="140" name="classLoader"/>      
+      <multiplicity id="141" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="142">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <association id="143">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="144" name="player1"/>      
+      <multiplicity id="145" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="146">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="147" name="uniqueInstance"/>      
+      <multiplicity id="148" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="149">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="150" name="animation2"/>      
+      <multiplicity id="151" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="152">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="153" name="Player2"/>      
+      <multiplicity id="154" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="155">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="156" name="gamePanel"/>      
+      <multiplicity id="157" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="158">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="159" name="newShapeFactory"/>      
+      <multiplicity id="160" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="162" name="Move_Strategy"/>      
+      <multiplicity id="163" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="165" name="Player2"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <bendpoint x="1279" y="-186"/>    
+    <bendpoint x="1279" y="511"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="168" name="loadObj"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="170">    
+    <end type="SOURCE" refId="26" navigable="false">      
+      <attribute id="171" name="player2"/>      
+      <multiplicity id="172" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="174" name="loader"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <bendpoint x="469" y="511"/>    
+    <bendpoint x="469" y="740"/>    
+    <bendpoint x="469" y="1149"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="177" name="strategy2"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="179">    
+    <bendpoint x="943" y="1149"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <association id="180">    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="181" name="caller"/>      
+      <multiplicity id="182" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="184" name="obj"/>      
+      <multiplicity id="185" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="186">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <association id="187">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="188" name="currentShape"/>      
+      <multiplicity id="189" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="190">    
+    <bendpoint x="1653" y="740"/>    
+    <bendpoint x="1653" y="1149"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="27"/>  
+  </realization>  
+  <association id="191">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="192" name="currentShape"/>      
+      <multiplicity id="193" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="194">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="195" name="handler"/>      
+      <multiplicity id="196" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="197">    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="6"/>  
+  </nesting>  
+  <association id="198">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="199" name="Player"/>      
+      <multiplicity id="200" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <bendpoint x="1349" y="740"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="202" name="Player2"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <bendpoint x="406" y="511"/>    
+    <bendpoint x="115" y="296"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="205" name="iter"/>      
+      <multiplicity id="206" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <bendpoint x="1623" y="2339"/>    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="208" name="usedShapes"/>      
+      <multiplicity id="209" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="211" name="pauseMenu"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <bendpoint x="1377" y="1149"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="214" name="strategy2"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="27" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="216">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="217" name="player2"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="30" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="219">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <association id="220">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="221" name="saveObj"/>      
+      <multiplicity id="222" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

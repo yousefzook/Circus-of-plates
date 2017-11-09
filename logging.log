@@ -1,0 +1,165 @@
+2017-11-09 19:33:13,508 INFO  Player.Player (Player.java:160) - Player 1's Control Strategy is set to arrows
+2017-11-09 19:33:13,511 INFO  Player.Player (Player.java:166) - Player 2's Control Strategy is set to mouse
+2017-11-09 19:33:17,083 INFO  Player.Player (Player.java:156) - Player 2's Control Strategy is set to A-D
+2017-11-09 19:33:18,130 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-11-09 19:33:18,131 INFO  Player.Player (Player.java:265) - Left Stack size equals 1
+2017-11-09 19:33:18,249 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-11-09 19:33:18,250 INFO  Player.Player (Player.java:265) - Left Stack size equals 2
+2017-11-09 19:33:18,445 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,478 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,508 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,525 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,553 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,569 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,594 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,623 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,977 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,994 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:18,997 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:18,998 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,024 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,049 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,069 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,096 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,364 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,365 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,395 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,396 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,422 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:19,424 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,430 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,431 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,448 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,449 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,469 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,470 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,503 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,506 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,547 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,548 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,561 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,561 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,585 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,586 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,615 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,615 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,640 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,641 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,660 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,660 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,688 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,689 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,698 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:19,699 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,712 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,712 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,744 INFO  Player.Player (Player.java:365) - Player 1 Moved
+2017-11-09 19:33:19,745 INFO  Player.Player (Player.java:365) - Player 2 Moved
+2017-11-09 19:33:19,869 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:19,869 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,879 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:19,879 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,895 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:19,896 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:19,965 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 2's Left Stack
+2017-11-09 19:33:19,966 INFO  Player.Player (Player.java:265) - Left Stack size equals 3
+2017-11-09 19:33:20,041 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,041 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,057 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,057 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,062 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,062 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,171 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,172 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,202 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,203 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,230 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,230 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,358 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,358 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,375 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,376 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,454 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,456 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,461 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,461 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,519 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,520 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,532 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,533 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,617 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,617 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,617 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,617 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,668 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-11-09 19:33:20,669 INFO  Player.Player (Player.java:265) - Left Stack size equals 1
+2017-11-09 19:33:20,677 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,677 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,683 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,683 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,699 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,699 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,794 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,794 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,801 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,801 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,854 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,856 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,856 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,857 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,886 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,886 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,951 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,951 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:20,967 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:20,967 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,039 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,040 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,150 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,151 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,198 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,199 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,227 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,227 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,345 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,346 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,386 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-11-09 19:33:21,388 INFO  Player.Player (Player.java:265) - Left Stack size equals 2
+2017-11-09 19:33:21,400 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,401 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,401 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-11-09 19:33:21,401 INFO  Player.Player (Player.java:265) - Left Stack size equals 3
+2017-11-09 19:33:21,409 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,409 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,494 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-11-09 19:33:21,494 INFO  Player.Player (Player.java:265) - Left Stack size equals 4
+2017-11-09 19:33:21,511 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,511 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,526 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,526 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,546 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,546 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,580 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,581 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,698 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,698 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,721 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,723 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,764 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,764 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,877 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,877 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,885 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,886 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,924 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:21,924 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:21,947 INFO  Player.Player (Player.java:263) - A Shape is being added to Player 1's Left Stack
+2017-11-09 19:33:21,947 INFO  Player.Player (Player.java:265) - Left Stack size equals 5
+2017-11-09 19:33:22,039 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:22,040 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:22,071 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:22,073 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:22,195 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:22,195 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
+2017-11-09 19:33:22,249 INFO  View.GamePanel (GamePanel.java:287) - A Shape is Released
+2017-11-09 19:33:22,249 INFO  View.GamePanel (GamePanel.java:289) - A Shape is Acquired
